@@ -1,0 +1,21 @@
+body {
+
+
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  align-items: center;
+  text-align: center;
+}
+
+.shashank{
+  background-image:url(../assets/images/woman-books-reading.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  display: flex;
+
+}
+
+.a{
+  color:papayawhip;
+ margin-top: 50vh;
+}
